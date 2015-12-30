@@ -1,0 +1,28 @@
+name: Wish in Toronto
+favicon: null
+layout_spectrum: 0.6873593251220882
+typography_spectrum: 0.06407358194701374
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.9730130904354155
+  lightness: 0.7784609249792993
+  saturation: 0.027773842215538025
+  rhythmicContrast: 0.6764786734711379
+purpose: []
